@@ -16,6 +16,7 @@ Vector Databases
 Python
 
 # Professional Experience
+
 Apex falcondrop
 Working on Apex | 2026 - Present
 
@@ -36,18 +37,19 @@ Platform architecture and implementation
 
 # Featured Projects
 
-Apex MCP Server
+# Apex MCP Server
 
 A security-focused MCP server that automatically scans code from development tools like Cursor, Claude Code, and Antigravity. The system identifies vulnerabilities and provides automated fixes to improve code security.
 Tech Stack: Next.js, JavaScript, Regex, MCP
 Duration: 1 month
 
-Prompt Search Engine
+# Prompt Search Engine
+
 A sophisticated search engine built on vector embeddings technology that helps users discover and retrieve the most relevant prompts from a large database. The system uses semantic search to match user queries with appropriate prompt templates.
 Tech Stack: Next.js, FastAPI, Vector Database
 Duration: 1 month
 
-Landing Page Builder
+# Landing Page Builder
 An AI-powered platform that transforms text prompts into fully functional landing pages in approximately 60 seconds. The system leverages natural language processing and automated design generation to streamline web development.
 Tech Stack: Next.js, FastAPI, OpenAI API, Vector Database
 Duration: 2 months
@@ -66,7 +68,7 @@ Gayatri Vidyapeeth Haridwar | 2022 - 2024
 # Contact
 Email: aayushtimsina19@gmail.com
 Phone: (+91) 9897503728
-X (Twitter): @Agast
+X (Twitter): @agastmm
 
 # License
 Copyright 2026 Aayush. All rights reserved.
